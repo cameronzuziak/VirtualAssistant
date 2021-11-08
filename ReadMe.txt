@@ -35,6 +35,6 @@ Set Up:
 
 	pip3 install -r requirements.txt
 
-6. run the command: python3 recognize.py
+6. run the command: python3 main.py
 
 7. ask a question and be amazed by the power of nlp, such aww, many wow. ૮･ﻌ･ა 
