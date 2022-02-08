@@ -19,22 +19,22 @@ Set Up:
 
 1. open up your terminal and cd into this folder 
 
-2. create new venv using:
+2. create new venv using:  
 
 	python3 -m venv venv	
 
-3. activate the virtual environment by running the following command: 
+3. activate the virtual environment by running the following command:  
 		
 	source venv/bin/activate
  
-4. download and install newspaper corpora (you need to do this before installing requirements):
+4. download and install newspaper corpora (you need to do this before installing requirements):  
 
     curl https://raw.githubusercontent.com/codelucas/newspaper/master/download_corpora.py | python3
 
-5. install requirements by running:
+5. install requirements by running:  
 
 	pip3 install -r requirements.txt
 
-6. run the command: python3 main.py
+6. run the command:   python3 main.py
 
 7. ask a question and be amazed by the power of nlp, such aww, many wow. ૮･ﻌ･ა 
